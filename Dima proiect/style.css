@@ -1,0 +1,43 @@
+
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(17, 17, 17);
+}
+
+body {
+    background: url('imag-fundal.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:  center;
+    background-size: cover;
+
+ 
+}
+
+.header {
+    margin-top: 50px;
+}
+
+.resume-container {
+  background: rgba(82, 8, 218, 0.137);
+  width: 1000px;
+  margin: 0 auto 100px auto;
+  padding: 30px 20px;
+  border: 1px solid #131313;
+  box-shadow: 0px 6px #e6152a;
+  border-radius: 10px 10px 10px 10px;
+ 
+}
+
+.subtitle{
+   text-align: center;
+}
+
+.dima{
+   text-align: center;
+}
+
+p.a {
+  text-align-last: center;
+  }
